@@ -25,5 +25,8 @@ AUTO_MSG_READ: process.env.AUTO_MSG_READ || "true",
 AI_MODE: process.env.AI_MODE || "true",
 AUTO_STICKER: process.env.AUTO_STICKER || "true",
 AUTO_REPLY: process.env.AUTO_REPLY || "true",
-LANG: process.env.BOT_LANG || 'EN' 
+LANG: process.env.BOT_LANG || 'SI',
+AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
+AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "😘❤️ *ᴀᴠɪsʜᴋᴀ_x-ᴍᴅ sᴇᴇɴ ʏᴏᴜʀ sᴛᴀᴛᴜs* ❤️",
+ANTI_CALL: process.env.ANTI_CALL || "true"
 };
